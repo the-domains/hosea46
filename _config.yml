@@ -1,7 +1,7 @@
 name: hosea46
 favicon: null
-layout_spectrum: 0.22315502213314176
-typography_spectrum: 0.42731466819532216
+layout_spectrum: 0.25647
+typography_spectrum: 0.15698
 title: 'Hosea 4:6'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.40892914263531566
-  lightness: 0.9503491874784231
-  saturation: 0.8851422753650695
-  rhythmicContrast: 0.1884566757362336
+    - '#3fa8f4'
+    - '#000000'
+    - '#00ffff'
+    - '#0080ff'
+    - '#008080'
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0.875
+  rhythmicContrast: 0.5
 purpose: []
